@@ -24,6 +24,12 @@
           "-ms-flex-wrap"
         ]
       }
+    ],
+    "axe/forms": [
+      "default",
+      {
+        "label": "off"
+      }
     ]
   }
 }
